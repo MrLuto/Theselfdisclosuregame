@@ -43,7 +43,7 @@ body{
 }
 
 .container .card:after{
-  content: 'TTH';
+  content: 'TSG';
   position: absolute;
   top: 30%;
   left: -4%;
