@@ -23,7 +23,7 @@ const cards = [
     'alternate sharing something you consider a positive characteristic of your partner. share a total of five items. ',
     "how close and warm is your family? do you feel your childhood was happier that most other people's? ",
     'how do you feel about your relationship with your mother? ',
-    'make theree true "we" statements earch. for instance "we are both in this room feeling..." ',
+    'make theree true "we" statements each. for instance "we are both in this room feeling..." ',
     'complete this sentence: "I wish i had someone with whom i could share ..." ',
     'if you were going to become a close friend with your partner, plear share what would be important for hem or her to know. ',
     "tell your partner what you like about them; be very honest this time, saying things that you might not say to somenoe you've just met. ",
